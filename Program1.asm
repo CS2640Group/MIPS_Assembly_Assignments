@@ -1,7 +1,7 @@
 # Jaron Lin, Timothy Lee, Jonah Lysne, Alan Mong
 # CS 2640.01
-# October 19, 2023
-# https://github.com/CS2640Group/MIPS_Assembly_Assignments
+# Date: October 19, 2023
+# Github Link: https://github.com/CS2640Group/MIPS_Assembly_Assignments
 # Program 1: Getting Familiar with Assembly
 
 .data
